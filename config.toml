@@ -1,0 +1,6 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Example'
+description = 'Description here'
+theme = 'base-theme'
+disableKinds = ["taxonomy", "term", "RSS", "sitemap" ]
